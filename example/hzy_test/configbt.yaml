@@ -1,0 +1,17 @@
+replayer:
+    basefiles:
+        commodity: C:/Users/Twhp/PycharmProjects/GoldRushTrader/example//common/commodities.json   #品种列表
+        contract: C:/Users/Twhp/PycharmProjects/GoldRushTrader/example//common/contracts.json      #合约列表
+        holiday: C:/Users/Twhp/PycharmProjects/GoldRushTrader/example//common/holidays.json        #节假日列表
+        hot: C:/Users/Twhp/PycharmProjects/GoldRushTrader/example//common/hots.json                #主力合约映射表
+        session: C:/Users/Twhp/PycharmProjects/GoldRushTrader/example//common/sessions.json        #交易时间模板
+        uft-8: false
+    mode: csv   #回测历史数据存储，csv
+    store:
+        path: C:/Users/Twhp/PycharmProjects/GoldRushTrader/example//storage/       #历史数据存储跟目录
+    etime: 201912011500         #回测结束时间，精确到分钟
+    stime: 201909010900         #回测开始时间，精确到分钟
+    fees: C:/Users/Twhp/PycharmProjects/GoldRushTrader/example//common/fees.json   #佣金配置文件
+env:
+    mocker: cta
+

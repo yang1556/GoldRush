@@ -1,0 +1,38 @@
+{
+    "positions": [
+        {
+            "code": "CFFEX.IF.HOT",
+            "volume": -1.0,
+            "closeprofit": -92880.00000000089,
+            "dynprofit": 1919.9999999998909,
+            "lastentertime": 201504141455,
+            "lastexittime": 201504141450,
+            "details": [
+                {
+                    "long": false,
+                    "price": 4435.0,
+                    "maxprice": 4436.6,
+                    "minprice": 4413.0,
+                    "volume": 1.0,
+                    "opentime": 201504141455,
+                    "opentdate": 20150414,
+                    "profit": 1919.9999999998909,
+                    "maxprofit": 6600.0,
+                    "maxloss": -480.00000000010916,
+                    "opentag": "entershort"
+                }
+            ]
+        }
+    ],
+    "fund": {
+        "total_profit": -92880.00000000089,
+        "total_dynprofit": 1919.9999999998909,
+        "total_fees": 256923.5400000004,
+        "tdate": 20150414
+    },
+    "signals": {},
+    "conditions": {
+        "settime": 201504141500,
+        "items": {}
+    }
+}

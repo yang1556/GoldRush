@@ -1,0 +1,33 @@
+{
+    "strategies": {},
+    "backtests": {
+        "1da2e6c04097e68bcf27ae6c1183dfb4": {
+            "id": "1da2e6c04097e68bcf27ae6c1183dfb4",
+            "capital": 500000,
+            "runtime": "2024.04.23 20:21:56",
+            "state": {
+                "code": "CFFEX.IF.HOT",
+                "period": "m5",
+                "stime": 201507060900,
+                "etime": 201604161515,
+                "progress": 100.0,
+                "elapse": 1306882800
+            },
+            "perform": {
+                "capital": 500000,
+                "days": 191,
+                "total_return": -89.82134,
+                "annual_return": -94.33605420658657,
+                "win_rate": 44.50261780104712,
+                "max_falldown": 93.78777695500428,
+                "max_profratio": 94.05449243335329,
+                "std": 150.6410625373952,
+                "down_std": 86.05142779579992,
+                "sharpe_ratio": -0.6395072670353216,
+                "sortino_ratio": -1.1195172081884808,
+                "calmar_ratio": -1.005845935039545,
+                "name": "1da2e6c04097e68bcf27ae6c1183dfb4"
+            }
+        }
+    }
+}

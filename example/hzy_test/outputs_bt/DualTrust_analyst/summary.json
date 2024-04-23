@@ -1,0 +1,15 @@
+{
+    "capital": 500000,
+    "days": 32,
+    "total_return": 7.167132000000009,
+    "annual_return": 68.05911116238521,
+    "win_rate": 46.875,
+    "max_falldown": 5.3398137113879,
+    "max_profratio": 11.837354289303999,
+    "std": 23.124580210363355,
+    "down_std": 10.650204107097814,
+    "sharpe_ratio": 2.8566620696007536,
+    "sortino_ratio": 6.202614569457895,
+    "calmar_ratio": 12.745596539676962,
+    "name": "DualTrust_analyst"
+}

@@ -1,0 +1,109 @@
+{
+    "strategies": {},
+    "backtests": {
+        "5e97f436e67de68c2c9f462c9f3fdac6": {
+            "id": "5e97f436e67de68c2c9f462c9f3fdac6",
+            "capital": 500000,
+            "runtime": "2024.03.06 16:55:54",
+            "state": {
+                "code": "",
+                "period": "",
+                "stime": 201909100930,
+                "etime": 201912011500,
+                "progress": 0,
+                "elapse": 0
+            },
+            "perform": {
+                "days": 0,
+                "total_return": 0,
+                "annual_return": 0,
+                "win_rate": 0,
+                "max_falldown": 0,
+                "max_profratio": 0,
+                "std": 0,
+                "down_std": 0,
+                "sharpe_ratio": 0,
+                "sortino_ratio": 0,
+                "calmar_ratio": 0
+            }
+        },
+        "80bb45d657d082737edfe0487a842931": {
+            "id": "80bb45d657d082737edfe0487a842931",
+            "capital": 500000,
+            "runtime": "2024.03.06 16:56:32",
+            "state": {
+                "code": "",
+                "period": "",
+                "stime": 201909100930,
+                "etime": 201912011500,
+                "progress": 0,
+                "elapse": 0
+            },
+            "perform": {
+                "days": 0,
+                "total_return": 0,
+                "annual_return": 0,
+                "win_rate": 0,
+                "max_falldown": 0,
+                "max_profratio": 0,
+                "std": 0,
+                "down_std": 0,
+                "sharpe_ratio": 0,
+                "sortino_ratio": 0,
+                "calmar_ratio": 0
+            }
+        },
+        "e86ebb4c8544adce54a4a02d8baf289b": {
+            "id": "e86ebb4c8544adce54a4a02d8baf289b",
+            "capital": 500000,
+            "runtime": "2024.03.06 17:33:22",
+            "state": {
+                "code": "",
+                "period": "",
+                "stime": 201909100930,
+                "etime": 201912011500,
+                "progress": 0,
+                "elapse": 0
+            },
+            "perform": {
+                "days": 0,
+                "total_return": 0,
+                "annual_return": 0,
+                "win_rate": 0,
+                "max_falldown": 0,
+                "max_profratio": 0,
+                "std": 0,
+                "down_std": 0,
+                "sharpe_ratio": 0,
+                "sortino_ratio": 0,
+                "calmar_ratio": 0
+            }
+        },
+        "39713022896a76bc76bf6c4b5f705bef": {
+            "id": "39713022896a76bc76bf6c4b5f705bef",
+            "capital": 500000,
+            "runtime": "2024.03.06 17:34:02",
+            "state": {
+                "code": "",
+                "period": "",
+                "stime": 201909100930,
+                "etime": 201912011500,
+                "progress": 0,
+                "elapse": 0
+            },
+            "perform": {
+                "days": 0,
+                "total_return": 0,
+                "annual_return": 0,
+                "win_rate": 0,
+                "max_falldown": 0,
+                "max_profratio": 0,
+                "std": 0,
+                "down_std": 0,
+                "sharpe_ratio": 0,
+                "sortino_ratio": 0,
+                "calmar_ratio": 0
+            }
+        }
+    }
+}

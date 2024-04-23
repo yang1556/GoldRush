@@ -1,0 +1,173 @@
+[2024.04.14 17:09:02 - info ] WonderTrader CTA backtest framework initialzied, version: X64 v0.9.9 Build@Dec 31 2023 22:33:55
+[2024.04.14 17:09:02 - info ] Backtest time range is set to be [201501130900,201504141515] via config
+[2024.04.14 17:09:02 - info ] Unused cache data will be cleard in 0 days
+[2024.04.14 17:09:02 - info ] Tick data replaying is disabled
+[2024.04.14 17:09:02 - info ] adjust_flag is 0
+[2024.04.14 17:09:02 - info ] Resampled bars will be aligned by section:  no
+[2024.04.14 17:09:02 - info ] nosim_if_notrade is false
+[2024.04.14 17:09:02 - warning] No session configured for CZCE.PX
+[2024.04.14 17:09:02 - warning] No session configured for CZCE.SH
+[2024.04.14 17:09:02 - warning] No session configured for INE.ec
+[2024.04.14 17:09:02 - warning] No session configured for SHFE.br
+[2024.04.14 17:09:02 - info ] Commodities configuration file C:/Users/Twhp/Desktop/wtpy/demos//common/commodities.json loaded
+[2024.04.14 17:09:02 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2024.04.14 17:09:02 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2024.04.14 17:09:02 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2024.04.14 17:09:02 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2024.04.14 17:09:02 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2024.04.14 17:09:02 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2024.04.14 17:09:02 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2024.04.14 17:09:02 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2024.04.14 17:09:02 - info ] Contracts configuration file C:/Users/Twhp/Desktop/wtpy/demos//common/contracts.json loaded, 6 exchanges
+[2024.04.14 17:09:02 - info ] 38 items of fees template loaded
+[2024.04.14 17:09:02 - info ] Backtesting will run in sync mode
+[2024.04.14 17:09:02 - debug] Calculating hook disabled
+[2024.04.14 17:09:02 - info ] CTA Strategy initialized with absolute slippage: 0
+[2024.04.14 17:09:02 - info ] 68145 items of back m5 data of CFFEX.IF.HOT directly loaded from dsb file, from 2401020935 to 2910311500
+[2024.04.14 17:09:02 - info ] DualThrust inited
+[2024.04.14 17:09:02 - info ] Start to replay back data from 201501130900...
+[2024.04.14 17:09:02 - debug] Tradingday 20150113 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150113 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150114 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150114 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150115 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150115 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150116 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150116 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150119 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150119 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150120 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150120 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150121 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150121 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150122 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150122 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150123 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150123 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150126 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150126 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150127 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150127 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150128 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150128 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150129 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150129 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150130 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150130 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150202 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150202 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150203 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150203 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150204 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150204 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150205 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150205 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150206 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150206 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150209 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150209 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150210 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150210 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150211 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150211 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150212 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150212 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150213 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150213 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150216 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150216 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150217 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150217 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150225 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150225 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150226 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150226 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150227 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150227 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150302 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150302 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150303 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150303 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150304 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150304 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150305 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150305 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150306 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150306 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150309 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150309 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150310 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150310 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150311 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150311 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150312 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150312 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150313 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150313 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150316 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150316 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150317 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150317 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150318 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150318 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150319 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150319 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150320 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150320 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150323 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150323 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150324 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150324 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150325 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150325 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150326 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150326 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150327 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150327 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150330 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150330 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150331 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150331 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150401 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150401 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150402 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150402 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150403 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150403 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150407 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150407 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150408 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150408 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150409 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150409 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150410 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150410 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150413 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150413 ends
+[2024.04.14 17:09:02 - debug] Tradingday 20150414 begins
+[2024.04.14 17:09:02 - debug] Tradingday 20150414 ends
+[2024.04.14 17:09:02 - info ] 201504150935 is beyond ending time 201504141515,replaying done
+[2024.04.14 17:09:02 - info ] Strategy has been scheduled 2880 times, totally taking 138280 us, 48.014 us each time
+[2024.04.14 17:09:02 - debug] Notify strategy the end of backtest

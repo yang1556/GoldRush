@@ -1,0 +1,435 @@
+[2024.04.23 20:21:58 - info ] WonderTrader CTA backtest framework initialzied, version: X64 v0.9.9 Build@Dec 31 2023 22:33:55
+[2024.04.23 20:21:58 - info ] Backtest time range is set to be [201507060900,201604161515] via config
+[2024.04.23 20:21:58 - info ] Unused cache data will be cleard in 0 days
+[2024.04.23 20:21:58 - info ] Tick data replaying is disabled
+[2024.04.23 20:21:58 - info ] adjust_flag is 0
+[2024.04.23 20:21:58 - info ] Resampled bars will be aligned by section:  no
+[2024.04.23 20:21:58 - info ] nosim_if_notrade is false
+[2024.04.23 20:21:58 - warning] No session configured for CZCE.PX
+[2024.04.23 20:21:58 - warning] No session configured for CZCE.SH
+[2024.04.23 20:21:58 - warning] No session configured for INE.ec
+[2024.04.23 20:21:58 - warning] No session configured for SHFE.br
+[2024.04.23 20:21:58 - info ] Commodities configuration file C:/Users/Twhp/Desktop/wtpy/demos//common/commodities.json loaded
+[2024.04.23 20:21:58 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2024.04.23 20:21:58 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2024.04.23 20:21:58 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2024.04.23 20:21:58 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2024.04.23 20:21:58 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2024.04.23 20:21:58 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2024.04.23 20:21:58 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2024.04.23 20:21:58 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2024.04.23 20:21:58 - info ] Contracts configuration file C:/Users/Twhp/Desktop/wtpy/demos//common/contracts.json loaded, 6 exchanges
+[2024.04.23 20:21:58 - info ] 38 items of fees template loaded
+[2024.04.23 20:21:58 - info ] Backtesting will run in sync mode
+[2024.04.23 20:21:58 - debug] Calculating hook disabled
+[2024.04.23 20:21:58 - info ] CTA Strategy initialized with absolute slippage: 0
+[2024.04.23 20:21:58 - info ] 68145 items of back m5 data of CFFEX.IF.HOT directly loaded from dsb file, from 2401020935 to 2910311500
+[2024.04.23 20:21:58 - info ] DualThrust inited
+[2024.04.23 20:21:58 - info ] Start to replay back data from 201507060900...
+[2024.04.23 20:21:58 - debug] Tradingday 20150706 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150706 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150707 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150707 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150708 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150708 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150709 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150709 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150710 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150710 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150713 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150713 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150714 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150714 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150715 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150715 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150716 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150716 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150717 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150717 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150720 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150720 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150721 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150721 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150722 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150722 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150723 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150723 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150724 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150724 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150727 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150727 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150728 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150728 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150729 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150729 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150730 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150730 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150731 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150731 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150803 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150803 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150804 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150804 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150805 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150805 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150806 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150806 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150807 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150807 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150810 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150810 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150811 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150811 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150812 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150812 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150813 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150813 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150814 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150814 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150817 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150817 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150818 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150818 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150819 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150819 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150820 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150820 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150821 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150821 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150824 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150824 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150825 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150825 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150826 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150826 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150827 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150827 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150828 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150828 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150831 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150831 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150901 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150901 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150902 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150902 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150907 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150907 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150908 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150908 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150909 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150909 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150910 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150910 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150911 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150911 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150914 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150914 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150915 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150915 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150916 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150916 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150917 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150917 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150918 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150918 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150921 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150921 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150922 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150922 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150923 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150923 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150924 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150924 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150925 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150925 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150928 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150928 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150929 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150929 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20150930 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20150930 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151008 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151008 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151009 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151009 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151012 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151012 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151013 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151013 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151014 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151014 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151015 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151015 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151016 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151016 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151019 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151019 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151020 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151020 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151021 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151021 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151022 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151022 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151023 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151023 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151026 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151026 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151027 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151027 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151028 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151028 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151029 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151029 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151030 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151030 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151102 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151102 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151103 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151103 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151104 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151104 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151105 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151105 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151106 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151106 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151109 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151109 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151110 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151110 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151111 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151111 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151112 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151112 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151113 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151113 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151116 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151116 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151117 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151117 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151118 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151118 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151119 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151119 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151120 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151120 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151123 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151123 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151124 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151124 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151125 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151125 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151126 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151126 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151127 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151127 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151130 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151130 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151201 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151201 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151202 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151202 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151203 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151203 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151204 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151204 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151207 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151207 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151208 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151208 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151209 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151209 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151210 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151210 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151211 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151211 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151214 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151214 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151215 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151215 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151216 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151216 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151217 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151217 ends
+[2024.04.23 20:21:58 - debug] Tradingday 20151218 begins
+[2024.04.23 20:21:58 - debug] Tradingday 20151218 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151221 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151221 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151222 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151222 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151223 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151223 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151224 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151224 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151225 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151225 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151228 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151228 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151229 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151229 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151230 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151230 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20151231 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20151231 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160104 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160104 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160105 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160105 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160106 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160106 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160107 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160107 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160108 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160108 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160111 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160111 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160112 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160112 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160113 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160113 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160114 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160114 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160115 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160115 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160118 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160118 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160119 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160119 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160120 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160120 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160121 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160121 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160122 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160122 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160125 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160125 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160126 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160126 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160127 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160127 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160128 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160128 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160129 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160129 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160201 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160201 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160202 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160202 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160203 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160203 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160204 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160204 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160205 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160205 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160215 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160215 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160216 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160216 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160217 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160217 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160218 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160218 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160219 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160219 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160222 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160222 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160223 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160223 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160224 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160224 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160225 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160225 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160226 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160226 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160229 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160229 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160301 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160301 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160302 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160302 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160303 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160303 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160304 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160304 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160307 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160307 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160308 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160308 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160309 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160309 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160310 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160310 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160311 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160311 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160314 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160314 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160315 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160315 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160316 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160316 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160317 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160317 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160318 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160318 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160321 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160321 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160322 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160322 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160323 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160323 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160324 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160324 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160325 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160325 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160328 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160328 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160329 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160329 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160330 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160330 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160331 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160331 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160401 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160401 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160405 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160405 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160406 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160406 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160407 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160407 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160408 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160408 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160411 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160411 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160412 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160412 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160413 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160413 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160414 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160414 ends
+[2024.04.23 20:21:59 - debug] Tradingday 20160415 begins
+[2024.04.23 20:21:59 - debug] Tradingday 20160415 ends
+[2024.04.23 20:21:59 - info ] 201604180935 is beyond ending time 201604161515,replaying done
+[2024.04.23 20:21:59 - info ] Strategy has been scheduled 9105 times, totally taking 441139 us, 48.450 us each time
+[2024.04.23 20:21:59 - debug] Notify strategy the end of backtest

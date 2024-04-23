@@ -1,0 +1,15 @@
+{
+    "capital": 400000,
+    "days": 257,
+    "total_return": -93.95632499999999,
+    "annual_return": -92.72361908650113,
+    "win_rate": 43.190661478599225,
+    "max_falldown": 96.98090665545803,
+    "max_profratio": 52.429827813634276,
+    "std": 119.7249581381923,
+    "down_std": 105.52362334518008,
+    "sharpe_ratio": -0.7911768820763886,
+    "sortino_ratio": -0.8976532086720442,
+    "calmar_ratio": -0.9561017965723742,
+    "name": "RBreaker_analyst"
+}

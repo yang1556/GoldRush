@@ -1,0 +1,53 @@
+{
+    "strategies": {
+        "8a87867455504f9062f8145ea7ef849c": {
+            "id": "8a87867455504f9062f8145ea7ef849c",
+            "name": "test1",
+            "perform": {
+                "capital": 500000,
+                "days": 60,
+                "total_return": -69.576708,
+                "annual_return": -99.14330777960465,
+                "win_rate": 31.666666666666664,
+                "max_falldown": 72.4656356342644,
+                "max_profratio": 14.807309051132316,
+                "std": 64.36419271645765,
+                "down_std": 45.3918312341906,
+                "sharpe_ratio": -1.571421989632797,
+                "sortino_ratio": -2.228227084687877,
+                "calmar_ratio": -1.3681423879310606,
+                "name": "3179c4b96ce96c67b8b3128cf58708a8"
+            }
+        }
+    },
+    "backtests": {
+        "3179c4b96ce96c67b8b3128cf58708a8": {
+            "id": "3179c4b96ce96c67b8b3128cf58708a8",
+            "capital": 500000,
+            "runtime": "2024.04.14 17:09:00",
+            "state": {
+                "code": "CFFEX.IF.HOT",
+                "period": "m5",
+                "stime": 201501130900,
+                "etime": 201504141515,
+                "progress": 100.0,
+                "elapse": 430606600
+            },
+            "perform": {
+                "capital": 500000,
+                "days": 60,
+                "total_return": -69.576708,
+                "annual_return": -99.14330777960465,
+                "win_rate": 31.666666666666664,
+                "max_falldown": 72.4656356342644,
+                "max_profratio": 14.807309051132316,
+                "std": 64.36419271645765,
+                "down_std": 45.3918312341906,
+                "sharpe_ratio": -1.571421989632797,
+                "sortino_ratio": -2.228227084687877,
+                "calmar_ratio": -1.3681423879310606,
+                "name": "3179c4b96ce96c67b8b3128cf58708a8"
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+[2024.03.06 18:23:55 - info ] WonderTrader CTA backtest framework initialzied, version: X64 v0.9.9 Build@Dec 31 2023 22:33:55
+[2024.03.06 18:23:56 - info ] Backtest time range is set to be [201909100930,201912011500] via config
+[2024.03.06 18:23:56 - info ] Unused cache data will be cleard in 0 days
+[2024.03.06 18:23:56 - info ] Tick data replaying is disabled
+[2024.03.06 18:23:56 - info ] adjust_flag is 0
+[2024.03.06 18:23:56 - info ] Resampled bars will be aligned by section:  no
+[2024.03.06 18:23:56 - info ] nosim_if_notrade is false
+[2024.03.06 18:23:56 - warning] No session configured for CZCE.PX
+[2024.03.06 18:23:56 - warning] No session configured for CZCE.SH
+[2024.03.06 18:23:56 - warning] No session configured for INE.ec
+[2024.03.06 18:23:56 - warning] No session configured for SHFE.br
+[2024.03.06 18:23:56 - info ] Commodities configuration file C:/Users/Twhp/Desktop/wtpy/demos//common/commodities.json loaded
+[2024.03.06 18:23:56 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2024.03.06 18:23:56 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2024.03.06 18:23:56 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2024.03.06 18:23:56 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2024.03.06 18:23:56 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2024.03.06 18:23:56 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2024.03.06 18:23:56 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2024.03.06 18:23:56 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2024.03.06 18:23:56 - info ] Contracts configuration file C:/Users/Twhp/Desktop/wtpy/demos//common/contracts.json loaded, 6 exchanges
+[2024.03.06 18:23:56 - info ] 38 items of fees template loaded
+[2024.03.06 18:23:56 - info ] Backtesting will run in sync mode
+[2024.03.06 18:23:56 - debug] Calculating hook disabled
+[2024.03.06 18:23:56 - info ] CTA Strategy initialized with absolute slippage: 0
+[2024.03.06 18:23:56 - info ] 68145 items of back m5 data of CFFEX.IF.HOT directly loaded from dsb file, from 2401020935 to 2910311500
+[2024.03.06 18:23:56 - info ] DualThrust inited
+[2024.03.06 18:23:56 - info ] Start to replay back data from 201909100930...
+[2024.03.06 18:23:56 - debug] Tradingday 20190910 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190910 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190911 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190911 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190912 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190912 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190916 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190916 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190917 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190917 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190918 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190918 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190919 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190919 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190920 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190920 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190923 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190923 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190924 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190924 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190925 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190925 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190926 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190926 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190927 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190927 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20190930 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20190930 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191008 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191008 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191009 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191009 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191010 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191010 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191011 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191011 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191014 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191014 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191015 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191015 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191016 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191016 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191017 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191017 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191018 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191018 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191021 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191021 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191022 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191022 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191023 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191023 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191024 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191024 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191025 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191025 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191028 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191028 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191029 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191029 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191030 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191030 ends
+[2024.03.06 18:23:56 - debug] Tradingday 20191031 begins
+[2024.03.06 18:23:56 - debug] Tradingday 20191031 ends
+[2024.03.06 18:23:56 - info ] All back data replayed, replaying done
+[2024.03.06 18:23:56 - info ] Strategy has been scheduled 1536 times, totally taking 109446 us, 71.254 us each time
+[2024.03.06 18:23:56 - debug] Notify strategy the end of backtest
