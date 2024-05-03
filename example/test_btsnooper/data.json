@@ -2,13 +2,8 @@
     "workspace": [
         {
             "name": "test1",
-            "path": "C:\\Users\\Twhp\\Desktop\\wtpy\\demos\\cta_fut_bt\\outputs_bt",
-            "id": "68ae17622d7a982d85ad72868386e5a7"
-        },
-        {
-            "name": "test2",
-            "path": "C:\\Users\\Twhp\\PycharmProjects\\GoldRushTrader\\example\\test_websvr\\bt_deploy\\admin\\c1b5e681552aeaa313209dfdaac480bd\\backtests\\4bd750c8376f7c7cbdef14cfb5d7b013\\outputs_bt",
-            "id": "56855f93d49c4df46d779db83f581545"
+            "path": "C:\\Users\\Twhp\\PycharmProjects\\GoldRushTrader\\example\\hzy_test\\outputs_bt",
+            "id": "4749fbc0ebc1e7a4ffeedc5eb2f7683c"
         }
     ]
 }

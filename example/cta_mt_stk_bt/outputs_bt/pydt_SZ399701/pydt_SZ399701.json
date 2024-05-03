@@ -1,0 +1,45 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.IDX.399701",
+            "volume": 1.0,
+            "closeprofit": -542.9100000000035,
+            "dynprofit": -106.63000000000011,
+            "lastentertime": 201810151500,
+            "lastexittime": 201810121500,
+            "details": [
+                {
+                    "long": true,
+                    "price": 5670.02,
+                    "maxprice": 5677.96,
+                    "minprice": 5551.43,
+                    "volume": 1.0,
+                    "opentime": 201810151500,
+                    "opentdate": 20181015,
+                    "profit": -106.63000000000011,
+                    "maxprofit": 7.9399999999996,
+                    "maxloss": -118.59000000000015,
+                    "opentag": "enterlong"
+                }
+            ]
+        }
+    ],
+    "fund": {
+        "total_profit": -542.9100000000035,
+        "total_dynprofit": -106.63000000000011,
+        "total_fees": 0.0,
+        "tdate": 20181015
+    },
+    "signals": {
+        "SZSE.IDX.399701": {
+            "usertag": "exitlong",
+            "volume": 0.0,
+            "sigprice": 5563.39,
+            "gentime": 20181015150000000
+        }
+    },
+    "conditions": {
+        "settime": 201810151500,
+        "items": {}
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.IDX.399658",
+            "volume": 0.0,
+            "closeprofit": -1209.290000000004,
+            "dynprofit": 0.0,
+            "lastentertime": 201810121500,
+            "lastexittime": 201810151500,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": -1209.290000000004,
+        "total_dynprofit": 0.0,
+        "total_fees": 0.0,
+        "tdate": 20181015
+    },
+    "signals": {
+        "SZSE.IDX.399658": {
+            "usertag": "enterlong",
+            "volume": 1.0,
+            "sigprice": 3043.95,
+            "gentime": 20181015150000000
+        }
+    },
+    "conditions": {
+        "settime": 201810151500,
+        "items": {}
+    }
+}

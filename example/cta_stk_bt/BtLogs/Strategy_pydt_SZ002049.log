@@ -1,0 +1,1718 @@
+[2024.04.30 00:07:53 - debug] Calculating hook disabled
+[2024.04.30 00:07:53 - info ] DualThrust inited
+[2024.04.30 00:07:53 - info ] Strategy has been scheduled for 0 times
+[2024.04.30 00:07:53 - debug] Notify strategy the end of backtest
+[2024.04.30 00:09:02 - debug] Calculating hook disabled
+[2024.04.30 00:09:02 - info ] DualThrust inited
+[2024.04.30 00:09:02 - info ] Strategy has been scheduled for 0 times
+[2024.04.30 00:09:02 - debug] Notify strategy the end of backtest
+[2024.04.30 00:09:10 - debug] Calculating hook disabled
+[2024.04.30 00:09:10 - info ] DualThrust inited
+[2024.04.30 00:09:10 - info ] Strategy has been scheduled for 0 times
+[2024.04.30 00:09:10 - debug] Notify strategy the end of backtest
+[2024.04.30 00:09:43 - debug] Calculating hook disabled
+[2024.04.30 00:09:43 - info ] DualThrust inited
+[2024.04.30 00:09:43 - info ] Strategy has been scheduled for 0 times
+[2024.04.30 00:09:43 - debug] Notify strategy the end of backtest
+[2024.04.30 00:10:28 - debug] Calculating hook disabled
+[2024.04.30 00:10:28 - info ] DualThrust inited
+[2024.04.30 00:10:28 - info ] Strategy has been scheduled for 0 times
+[2024.04.30 00:10:28 - debug] Notify strategy the end of backtest
+[2024.04.30 00:11:23 - debug] Calculating hook disabled
+[2024.04.30 00:11:23 - info ] DualThrust inited
+[2024.04.30 00:11:24 - info ] Strategy has been scheduled 9648 times, totally taking 408439 us, 42.334 us each time
+[2024.04.30 00:11:24 - debug] Notify strategy the end of backtest
+[2024.04.30 00:15:31 - debug] Calculating hook disabled
+[2024.04.30 00:15:31 - info ] DualThrust inited
+[2024.04.30 00:15:31 - info ] Strategy has been scheduled 222 times, totally taking 12031 us, 54.194 us each time
+[2024.04.30 00:15:31 - debug] Notify strategy the end of backtest
+[2024.04.30 00:17:53 - debug] Calculating hook disabled
+[2024.04.30 00:17:53 - info ] DualThrust inited
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180104
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180112
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180118
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180124
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180131
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180202
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180207
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180212
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180214
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180226
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180228
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180313
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180315
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180319
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180321
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180323
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180327
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180403
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180409
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180416
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180418
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180420
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180426
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180507
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180511
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180515
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180517
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180523
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180530
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180601
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180606
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180612
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180615
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180620
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180622
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180626
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180628
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180705
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180710
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180716
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180718
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180724
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180727
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180731
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180802
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180808
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180813
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180817
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180822
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180824
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180829
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180904
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180906
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180910
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180913
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180920
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20180927
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181010
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181015
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181026
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181102
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181106
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181108
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181113
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181122
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181127
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181129
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181204
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181206
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181211
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181213
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181217
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181219
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20181224
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190103
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190111
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190117
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190122
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190128
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190130
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190201
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190212
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190225
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190228
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190304
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190306
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190311
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190314
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190320
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190325
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190327
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190329
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190404
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190417
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190423
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190426
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190430
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190507
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190510
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190515
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190604
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190613
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190621
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190628
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190703
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190709
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190711
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190717
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190723
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190725
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190802
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190808
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190812
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190814
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190819
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190823
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190828
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190903
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190905
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190911
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190916
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190923
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20190926
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191008
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191011
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191016
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191018
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191022
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191024
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191029
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191101
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191111
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191115
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191125
+[2024.04.30 00:17:53 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191128
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191203
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - debug] 1 of SZSE.STK.002049 frozen released on 20191212
+[2024.04.30 00:17:53 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:17:53 - info ] Strategy has been scheduled 460 times, totally taking 42148 us, 91.626 us each time
+[2024.04.30 00:17:53 - debug] Notify strategy the end of backtest
+[2024.04.30 00:18:17 - debug] Calculating hook disabled
+[2024.04.30 00:18:17 - info ] DualThrust inited
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180104
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180112
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180118
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180124
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180131
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180202
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180207
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180212
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180214
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180226
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180228
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180313
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180315
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180319
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180321
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180323
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180327
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180403
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180409
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180416
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180418
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180420
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180426
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180507
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180511
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180515
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180517
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180523
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180530
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180601
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180606
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180612
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180615
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180620
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180622
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180626
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180628
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180705
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180710
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180716
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180718
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180724
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180727
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180731
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180802
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180808
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180813
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180817
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180822
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180824
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180829
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180904
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180906
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180910
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180913
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180920
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20180927
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181010
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181015
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181026
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181102
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181106
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181108
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181113
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181122
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181127
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181129
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181204
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181206
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181211
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181213
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181217
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181219
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20181224
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190103
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190111
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190117
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190122
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190128
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190130
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190201
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190212
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190225
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190228
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190304
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190306
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190311
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190314
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190320
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190325
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190327
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190329
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190404
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190417
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190423
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190426
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190430
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190507
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190510
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190515
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190604
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190613
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190621
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190628
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190703
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190709
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190711
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190717
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190723
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190725
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190802
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190808
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190812
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190814
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190819
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190823
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190828
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190903
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190905
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190911
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190916
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190923
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20190926
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191008
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191011
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191016
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191018
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191022
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191024
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191029
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191101
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191111
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191115
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191125
+[2024.04.30 00:18:17 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191128
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191203
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - debug] 1 of SZSE.STK.002049 frozen released on 20191212
+[2024.04.30 00:18:17 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 00:18:17 - info ] Strategy has been scheduled 460 times, totally taking 25262 us, 54.917 us each time
+[2024.04.30 00:18:17 - debug] Notify strategy the end of backtest
+[2024.04.30 10:37:49 - debug] Calculating hook disabled
+[2024.04.30 10:37:49 - info ] DualThrust inited
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180104
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180112
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180118
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180124
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180131
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180202
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180207
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180212
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180214
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180226
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180228
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180313
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180315
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180319
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180321
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180323
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180327
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180403
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180409
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180416
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180418
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180420
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180426
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180507
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180511
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180515
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180517
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180523
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180530
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180601
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180606
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180612
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180615
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180620
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180622
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180626
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180628
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180705
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180710
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180716
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180718
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180724
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180727
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180731
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180802
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180808
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180813
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180817
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180822
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180824
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180829
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180904
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180906
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180910
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180913
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180920
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180927
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181010
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181015
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181026
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181102
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181106
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181108
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181113
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181122
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181127
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181129
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181204
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181206
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181211
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181213
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181217
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181219
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181224
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190103
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190111
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190117
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190122
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190128
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190130
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190201
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190212
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190225
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190228
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190304
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190306
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190311
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190314
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190320
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190325
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190327
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190329
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190404
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190417
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190423
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190426
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190430
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190507
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190510
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190515
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190604
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190613
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190621
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190628
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190703
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190709
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190711
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190717
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190723
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190725
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190802
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190808
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190812
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190814
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190819
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190823
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190828
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190903
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190905
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190911
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190916
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190923
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190926
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191008
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191011
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191016
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191018
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191022
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191024
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191029
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191101
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191111
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191115
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191125
+[2024.04.30 10:37:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191128
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191203
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191212
+[2024.04.30 10:37:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 10:37:49 - info ] Strategy has been scheduled 460 times, totally taking 39511 us, 85.893 us each time
+[2024.04.30 10:37:49 - debug] Notify strategy the end of backtest
+[2024.04.30 11:06:56 - debug] Calculating hook disabled
+[2024.04.30 11:06:56 - info ] DualThrust inited
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180104
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180112
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180118
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180124
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180131
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180202
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180207
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180212
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180214
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180226
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180228
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180313
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180315
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180319
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180321
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180323
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180327
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180403
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180409
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180416
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180418
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180420
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180426
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180507
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180511
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180515
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180517
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180523
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180530
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180601
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180606
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180612
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180615
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180620
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180622
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180626
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180628
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180705
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180710
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180716
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180718
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180724
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180727
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180731
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180802
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180808
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180813
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180817
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180822
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180824
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180829
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180904
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180906
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180910
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180913
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180920
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20180927
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181010
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181015
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181026
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181102
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181106
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181108
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181113
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181122
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181127
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181129
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181204
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181206
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181211
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181213
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181217
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181219
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20181224
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190103
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190111
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190117
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190122
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190128
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190130
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190201
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190212
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190225
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190228
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190304
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190306
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190311
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190314
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190320
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190325
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190327
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190329
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190404
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190417
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190423
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190426
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190430
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190507
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190510
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190515
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190604
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190613
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190621
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190628
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190703
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190709
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190711
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190717
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190723
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190725
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190802
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190808
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190812
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190814
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190819
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190823
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190828
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190903
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190905
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190911
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190916
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190923
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20190926
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191008
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191011
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191016
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191018
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191022
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191024
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191029
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191101
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191111
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191115
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191125
+[2024.04.30 11:06:56 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191128
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191203
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - debug] 1 of SZSE.STK.002049 frozen released on 20191212
+[2024.04.30 11:06:56 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:06:56 - info ] Strategy has been scheduled 460 times, totally taking 30688 us, 66.713 us each time
+[2024.04.30 11:06:56 - debug] Notify strategy the end of backtest
+[2024.04.30 11:39:49 - debug] Calculating hook disabled
+[2024.04.30 11:39:49 - info ] DualThrust inited
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180104
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180112
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180118
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180124
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180131
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180202
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180207
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180212
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180214
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180226
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180228
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180313
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180315
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180319
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180321
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180323
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180327
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180403
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180409
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180416
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180418
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180420
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180426
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180507
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180511
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180515
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180517
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180523
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180530
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180601
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180606
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180612
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180615
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180620
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180622
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180626
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180628
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180705
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180710
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180716
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180718
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180724
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180727
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180731
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180802
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180808
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180813
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180817
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180822
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180824
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180829
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180904
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180906
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180910
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180913
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180920
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20180927
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181010
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181015
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181026
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181102
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181106
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181108
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181113
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181122
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181127
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181129
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181204
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181206
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181211
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181213
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181217
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181219
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20181224
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190103
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190111
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190117
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190122
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190128
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190130
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190201
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190212
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190225
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190228
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190304
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190306
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190311
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190314
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190320
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190325
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190327
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190329
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190404
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190417
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190423
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190426
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190430
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190507
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190510
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190515
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190604
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190613
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190621
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190628
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190703
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190709
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190711
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190717
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190723
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190725
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190802
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190808
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190812
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190814
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190819
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190823
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190828
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190903
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190905
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190911
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190916
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190923
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20190926
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191008
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191011
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191016
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191018
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191022
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191024
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191029
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191101
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191111
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191115
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191125
+[2024.04.30 11:39:49 - error] Cannot short on SZSE.STK.002049
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191128
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191203
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - debug] 1 of SZSE.STK.002049 frozen released on 20191212
+[2024.04.30 11:39:49 - debug] SZSE.STK.002049 frozen position up to 1
+[2024.04.30 11:39:49 - info ] Strategy has been scheduled 460 times, totally taking 30453 us, 66.202 us each time
+[2024.04.30 11:39:49 - debug] Notify strategy the end of backtest

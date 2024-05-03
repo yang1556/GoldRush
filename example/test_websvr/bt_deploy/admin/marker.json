@@ -1,32 +1,52 @@
 {
-    "strategies": {},
+    "strategies": {
+        "e1e27d23b504c0112af57d7294f859a4": {
+            "id": "e1e27d23b504c0112af57d7294f859a4",
+            "name": "test1",
+            "perform": {
+                "capital": 100000,
+                "days": 45,
+                "total_return": -0.06383999999999279,
+                "annual_return": -0.3400093820014827,
+                "win_rate": 40.0,
+                "max_falldown": 0.1256600000000052,
+                "max_profratio": 0.1344990114578026,
+                "std": 0.2628176557650076,
+                "down_std": 0.19973749812200384,
+                "sharpe_ratio": -8.903547119732886,
+                "sortino_ratio": -11.71542351337632,
+                "calmar_ratio": -2.705788492769923,
+                "name": "23eb8f3fc9e1d8f371d665bddfa20f95"
+            }
+        }
+    },
     "backtests": {
-        "1da2e6c04097e68bcf27ae6c1183dfb4": {
-            "id": "1da2e6c04097e68bcf27ae6c1183dfb4",
-            "capital": 500000,
-            "runtime": "2024.04.23 20:21:56",
+        "23eb8f3fc9e1d8f371d665bddfa20f95": {
+            "id": "23eb8f3fc9e1d8f371d665bddfa20f95",
+            "capital": 100000,
+            "runtime": "2024.05.02 00:51:18",
             "state": {
-                "code": "CFFEX.IF.HOT",
-                "period": "m5",
-                "stime": 201507060900,
-                "etime": 201604161515,
+                "code": "SZSE.IDX.399660",
+                "period": "d",
+                "stime": 202305080900,
+                "etime": 202307111515,
                 "progress": 100.0,
-                "elapse": 1306882800
+                "elapse": 110416300
             },
             "perform": {
-                "capital": 500000,
-                "days": 191,
-                "total_return": -89.82134,
-                "annual_return": -94.33605420658657,
-                "win_rate": 44.50261780104712,
-                "max_falldown": 93.78777695500428,
-                "max_profratio": 94.05449243335329,
-                "std": 150.6410625373952,
-                "down_std": 86.05142779579992,
-                "sharpe_ratio": -0.6395072670353216,
-                "sortino_ratio": -1.1195172081884808,
-                "calmar_ratio": -1.005845935039545,
-                "name": "1da2e6c04097e68bcf27ae6c1183dfb4"
+                "capital": 100000,
+                "days": 45,
+                "total_return": -0.06383999999999279,
+                "annual_return": -0.3400093820014827,
+                "win_rate": 40.0,
+                "max_falldown": 0.1256600000000052,
+                "max_profratio": 0.1344990114578026,
+                "std": 0.2628176557650076,
+                "down_std": 0.19973749812200384,
+                "sharpe_ratio": -8.903547119732886,
+                "sortino_ratio": -11.71542351337632,
+                "calmar_ratio": -2.705788492769923,
+                "name": "23eb8f3fc9e1d8f371d665bddfa20f95"
             }
         }
     }

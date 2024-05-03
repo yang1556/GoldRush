@@ -1,0 +1,31 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.STK.002049",
+            "volume": 0.0,
+            "closeprofit": 4.2839999999999709,
+            "dynprofit": 0.0,
+            "lastentertime": 201904291500,
+            "lastexittime": 201904301500,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": 4.2839999999999709,
+        "total_dynprofit": 0.0,
+        "total_fees": 0.0,
+        "tdate": 20190430
+    },
+    "signals": {
+        "SZSE.STK.002049": {
+            "usertag": "enterlong",
+            "volume": 1.0,
+            "sigprice": 29.289,
+            "gentime": 20190430150000000
+        }
+    },
+    "conditions": {
+        "settime": 201904301500,
+        "items": {}
+    }
+}

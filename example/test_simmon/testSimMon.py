@@ -5,7 +5,7 @@ def testSimMon():
 
     dtServo = GrtDtServo()
     # 这里配置的是基础数据文件目录
-    dtServo.setBasefiles(folder="C:/Users/Twhp/PycharmProjects/GoldRushTrader/example/common/")
+    dtServo.setBasefiles(folder="C:/Users/Twhp/PycharmProjects/GoldRushTrader/example/common/",commfile="stk_comms.json", contractfile="stocks.json")
 
     # 这里配置的是数据目录
     dtServo.setStorage(path='C:/Users/Twhp/PycharmProjects/GoldRushTrader/example/storage/')

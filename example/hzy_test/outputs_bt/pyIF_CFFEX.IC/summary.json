@@ -1,0 +1,15 @@
+{
+    "capital": 500000,
+    "days": 177,
+    "total_return": 186.073588,
+    "annual_return": 315.86550576749113,
+    "win_rate": 40.11299435028249,
+    "max_falldown": 28.845725016301287,
+    "max_profratio": 322.7457783278381,
+    "std": 77.37010780632772,
+    "down_std": 45.75075451909042,
+    "sharpe_ratio": 4.05667659857935,
+    "sortino_ratio": 6.8603350713379925,
+    "calmar_ratio": 10.950166986234159,
+    "name": "pyIF_CFFEX.IC"
+}

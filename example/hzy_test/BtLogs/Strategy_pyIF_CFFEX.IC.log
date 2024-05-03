@@ -1,0 +1,4 @@
+[2024.04.30 11:02:38 - debug] Calculating hook disabled
+[2024.04.30 11:02:38 - info ] DualThrust inited
+[2024.04.30 11:02:38 - info ] Strategy has been scheduled 177 times, totally taking 12813 us, 72.390 us each time
+[2024.04.30 11:02:38 - debug] Notify strategy the end of backtest

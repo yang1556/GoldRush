@@ -1,0 +1,15 @@
+{
+    "capital": 5000,
+    "days": 189,
+    "total_return": -24.1858,
+    "annual_return": -29.64381307129812,
+    "win_rate": 46.56084656084656,
+    "max_falldown": 27.001417070246198,
+    "max_profratio": 8.632932270410842,
+    "std": 15.02577550486942,
+    "down_std": 10.793867772652966,
+    "sharpe_ratio": -1.972864100205105,
+    "sortino_ratio": -2.746356884823329,
+    "calmar_ratio": -1.0978613823925438,
+    "name": "pydt_SZ399658"
+}

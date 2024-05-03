@@ -1,0 +1,38 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.IDX.399662",
+            "volume": -1.0,
+            "closeprofit": -346.2399999999993,
+            "dynprofit": 86.32999999999993,
+            "lastentertime": 201810111500,
+            "lastexittime": 201810101500,
+            "details": [
+                {
+                    "long": false,
+                    "price": 1232.75,
+                    "maxprice": 1239.97,
+                    "minprice": 1121.92,
+                    "volume": 1.0,
+                    "opentime": 201810111500,
+                    "opentdate": 20181011,
+                    "profit": 86.32999999999993,
+                    "maxprofit": 110.82999999999993,
+                    "maxloss": -7.220000000000027,
+                    "opentag": "entershort"
+                }
+            ]
+        }
+    ],
+    "fund": {
+        "total_profit": -346.2399999999993,
+        "total_dynprofit": 86.32999999999993,
+        "total_fees": 0.0,
+        "tdate": 20181015
+    },
+    "signals": {},
+    "conditions": {
+        "settime": 201810151500,
+        "items": {}
+    }
+}

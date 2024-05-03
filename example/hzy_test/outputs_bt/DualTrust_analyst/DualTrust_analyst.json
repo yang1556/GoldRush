@@ -3,36 +3,36 @@
         {
             "code": "CFFEX.IF.HOT",
             "volume": -1.0,
-            "closeprofit": 28259.99999999995,
-            "dynprofit": 7979.999999999973,
-            "lastentertime": 201910280945,
-            "lastexittime": 201910251100,
+            "closeprofit": -53579.999999999935,
+            "dynprofit": 12359.999999999945,
+            "lastentertime": 201512301110,
+            "lastexittime": 201512291405,
             "details": [
                 {
                     "long": false,
-                    "price": 3905.6,
-                    "maxprice": 3927.6,
-                    "minprice": 3865.0,
+                    "price": 3701.2,
+                    "maxprice": 3732.0,
+                    "minprice": 3651.6,
                     "volume": 1.0,
-                    "opentime": 201910280945,
-                    "opentdate": 20191028,
-                    "profit": 7979.999999999973,
-                    "maxprofit": 12179.999999999973,
-                    "maxloss": -6600.0,
+                    "opentime": 201512301110,
+                    "opentdate": 20151230,
+                    "profit": 12359.999999999945,
+                    "maxprofit": 14879.999999999973,
+                    "maxloss": -9240.000000000055,
                     "opentag": "entershort"
                 }
             ]
         }
     ],
     "fund": {
-        "total_profit": 28259.99999999995,
-        "total_dynprofit": 7979.999999999973,
-        "total_fees": 404.34,
-        "tdate": 20191031
+        "total_profit": -53579.999999999935,
+        "total_dynprofit": 12359.999999999945,
+        "total_fees": 2609.62,
+        "tdate": 20151231
     },
     "signals": {},
     "conditions": {
-        "settime": 201910311500,
+        "settime": 201512311500,
         "items": {}
     }
 }

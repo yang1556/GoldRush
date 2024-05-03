@@ -93,7 +93,7 @@ class GrtBtTask():
             print("folder:",self.folder)
             if isWindows():
                 print("fullpath:", fullPath)
-                process = subprocess.Popen([sys.executable, fullPath], creationflags=subprocess.CREATE_NEW_CONSOLE,cwd=self.folder)
+                process = subprocess.Popen([sys.executable, fullPath], creationflags=subprocess.CREATE_NEW_CONSOLE, cwd=self.folder)
                 process.wait()
                 self._procid=process.pid
                 returncode = process.returncode  # 获取子进程的返回码
@@ -730,7 +730,7 @@ class GrtBtMon(BtTaskSink):
 
         return thisBts[btid]["kline"]
 
-    def run_backtest(self, user:str, straid:str, fromTime:int, endTime:int, capital:float, slippage:int=0) -> dict:
+    def run_backtest(self, user:str, code:str, straid:str, fromTime:int, endTime:int, capital:float, slippage:int=0, path:str=None) -> dict:
 
         print("启动回测")
         if user not in self.user_bts:
@@ -745,7 +745,7 @@ class GrtBtMon(BtTaskSink):
         folder = os.path.join(self.path, user, straid, "backtests")
         if not os.path.exists(folder):
             os.mkdir(folder)
-        print("生层回测目录:",folder)
+        print("生成回测目录:",folder)
         folder = os.path.join(folder, btid)
         print(folder)
         os.mkdir(folder)
@@ -781,6 +781,7 @@ class GrtBtMon(BtTaskSink):
         f = open(old_path, "r", encoding="UTF-8")
         content = f.read()
         f.close()
+        content = content.replace("$CODE$",str(code))
         content = content.replace("$FROMTIME$", str(fromTime))
         content = content.replace("$ENDTIME$", str(endTime))
         content = content.replace("$STRAID$", btid)
@@ -825,7 +826,12 @@ class GrtBtMon(BtTaskSink):
         # 添加
         btTask = GrtBtTask(user, straid, btid, folder, self.logger, sink=self)
         btTask.run()
-
+        # 生成输出目录
+        new_output = os.path.join(path,"outputs_bt")
+        old_output = os.path.join(folder, "outputs_bt")
+        # print(new_output)
+        # print(old_output)
+        shutil.copytree(old_output, new_output, dirs_exist_ok=True)
         self.task_map[btid] = btTask
 
         # 这里还需要记录一下回测的任务，不然如果重启就恢复不了了

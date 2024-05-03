@@ -186,11 +186,12 @@ class GrtSimMon:
                 app.mount(static_item["path"], StaticFiles(directory=static_item["folder"]), name=static_item["name"])
         else:
             paths = os.path.split(__file__)
-            a = (paths[:-1] + ("static/console",))
+            # a = (paths[:-1] + ("static/console",))
+            a = (paths[:-1] + ("static/sim",))
             path = os.path.join(*a)
             print("path:", path)
-            app.mount("/backtest", StaticFiles(directory=path), name="static")
-
+            #app.mount("/backtest", StaticFiles(directory=path), name="static")
+            app.mount("/index", StaticFiles(directory=path), name="static")
         self.server_inst = app
 
         self.init_bt_apis(app)
@@ -533,15 +534,14 @@ class GrtSimMon:
         @app.post("/bt/runstrabt", tags=["回测管理接口"])
         def cmd_run_stra_bt(
                 token: str = Body(None, title="访问令牌", embed=True),
+                code: str = Body(..., title="品种代码", embed=True),
                 straid: str = Body(..., title="策略ID", embed=True),
                 stime: int = Body(None, title="开始时间", embed=True),
                 etime: int = Body(None, title="结束时间", embed=True),
                 capital: int = Body(500000, title="本金", embed=True),
-                slippage: int = Body(0, title="滑点", embed=True)
+                slippage: int = Body(0, title="滑点", embed=True),
+                path: str = Body(..., title="输出文件目录", embed=True),
         ):
-            # bSucc, userInfo = check_auth(request, token, self.__sec_key__)
-            # if not bSucc:
-            #     return userInfo
 
             user = "admin"
             # role = userInfo["role"]
@@ -581,7 +581,7 @@ class GrtSimMon:
                         "message": "策略不存在"
                     }
                 else:
-                    btInfo = self.__bt_mon__.run_backtest(user, straid, fromtime, endtime, capital, slippage)
+                    btInfo = self.__bt_mon__.run_backtest(user, code, straid, fromtime, endtime, capital, slippage, path)
                     ret = {
                         "result": 0,
                         "message": "OK",
@@ -660,9 +660,9 @@ class GrtSimMon:
                     "result": -1,
                     "message": "Invalid workspace"
                 }
-            print("path, straid:", path, straid)
+            #print("path, straid:", path, straid)
             code, bars, index, marks = self.get_bt_kline(path, straid)
-            print(type(bars), type(bars[0]))
+            #print(type(bars), type(bars[0]))
             # bar_test = list()
             # bar=dict()
             # for i in range(100):
@@ -1241,10 +1241,10 @@ class GrtSimMon:
         barList = self.dt_servo.get_bars(stdCode=code, period=period, fromTime=stime, endTime=etime)
         if barList is None:
             return None
-
-        #print(barList.bartimes[1])
-
-
+        print(stime)
+        print(barList[0][0],barList[0][0]*10000)
+        #print(barList.is_day)
+        print(barList.bartimes)
         # for realBar in barList:
         #    print(realBar)
         isDay = period[0] == 'd'
@@ -1253,7 +1253,8 @@ class GrtSimMon:
         i=0
         for realBar in barList:
             bar = dict()
-            bar["bartime"] = int(barList.bartimes[i])
+            #bar["bartime"] = int(realBar[0] if isDay else barList.bartimes[i])
+            bar["bartime"] = int(realBar[0]*10000+1500 if isDay else barList.bartimes[i])
             # print(type(realBar[0]))
             bar["open"] = float(realBar[3])
             bar["high"] = float(realBar[4])
@@ -1274,5 +1275,5 @@ class GrtSimMon:
             # bar["turnover"] = float(realBar[2])
             #bars.append(bar)
         # print("bar:", type(bars[0]["bartime"]))
-
+        print(marks)
         return code, bars, index, marks

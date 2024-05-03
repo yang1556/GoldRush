@@ -4,3 +4,21 @@
 [2024-04-23 20:19:03 - INFO] 回测5f80e07d96b94b946046948d9af4c682的已启动，进程ID: 16820
 [2024-04-23 20:21:56 - INFO] 回测1da2e6c04097e68bcf27ae6c1183dfb4开始接收ipc:///wtpy/bt_1da2e6c04097e68bcf27ae6c1183dfb4.ipc的通知信息
 [2024-04-23 20:22:00 - INFO] 回测1da2e6c04097e68bcf27ae6c1183dfb4的已启动，进程ID: 17504
+[2024-04-30 10:33:44 - INFO] 回测7c2a424119d609791dba082c71b5e449开始接收ipc:///wtpy/bt_7c2a424119d609791dba082c71b5e449.ipc的通知信息
+[2024-04-30 10:33:44 - INFO] 回测7c2a424119d609791dba082c71b5e449的已启动，进程ID: 13244
+[2024-04-30 10:44:41 - INFO] 回测c61d612ebbb2b7893d9c8feea09ed699开始接收ipc:///wtpy/bt_c61d612ebbb2b7893d9c8feea09ed699.ipc的通知信息
+[2024-04-30 10:44:44 - INFO] 回测c61d612ebbb2b7893d9c8feea09ed699的已启动，进程ID: 12712
+[2024-04-30 12:10:19 - INFO] 回测a08ce61415802f05fb60d97109ff5f91开始接收ipc:///wtpy/bt_a08ce61415802f05fb60d97109ff5f91.ipc的通知信息
+[2024-04-30 12:10:21 - INFO] 回测a08ce61415802f05fb60d97109ff5f91的已启动，进程ID: 4244
+[2024-04-30 12:12:46 - INFO] 回测e459d7fcd2bbdc84f35d46460d95b590开始接收ipc:///wtpy/bt_e459d7fcd2bbdc84f35d46460d95b590.ipc的通知信息
+[2024-04-30 12:12:48 - INFO] 回测e459d7fcd2bbdc84f35d46460d95b590的已启动，进程ID: 3348
+[2024-05-01 18:42:36 - INFO] 回测4a80dc4a2aed7422d34f339d2ae9538f开始接收ipc:///wtpy/bt_4a80dc4a2aed7422d34f339d2ae9538f.ipc的通知信息
+[2024-05-01 18:42:39 - INFO] 回测4a80dc4a2aed7422d34f339d2ae9538f的已启动，进程ID: 15896
+[2024-05-01 18:44:53 - INFO] 回测8d622aad90c5312139a131a2a763f9a5开始接收ipc:///wtpy/bt_8d622aad90c5312139a131a2a763f9a5.ipc的通知信息
+[2024-05-01 18:44:55 - INFO] 回测8d622aad90c5312139a131a2a763f9a5的已启动，进程ID: 8392
+[2024-05-01 18:46:09 - INFO] 回测46de23940ee427ed26034d3b55a1baed开始接收ipc:///wtpy/bt_46de23940ee427ed26034d3b55a1baed.ipc的通知信息
+[2024-05-01 18:46:11 - INFO] 回测46de23940ee427ed26034d3b55a1baed的已启动，进程ID: 16772
+[2024-05-02 00:33:33 - INFO] 回测4f3c0233af8ce053daa9240ad1dcbd51开始接收ipc:///wtpy/bt_4f3c0233af8ce053daa9240ad1dcbd51.ipc的通知信息
+[2024-05-02 00:33:35 - INFO] 回测4f3c0233af8ce053daa9240ad1dcbd51的已启动，进程ID: 396
+[2024-05-02 00:51:18 - INFO] 回测23eb8f3fc9e1d8f371d665bddfa20f95开始接收ipc:///wtpy/bt_23eb8f3fc9e1d8f371d665bddfa20f95.ipc的通知信息
+[2024-05-02 00:51:20 - INFO] 回测23eb8f3fc9e1d8f371d665bddfa20f95的已启动，进程ID: 2604

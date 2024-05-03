@@ -1,0 +1,113 @@
+[2024.05.02 00:51:20 - info ] WonderTrader CTA backtest framework initialzied, version: X64 v0.9.9 Build@Dec 31 2023 22:33:55
+[2024.05.02 00:51:20 - info ] Backtest time range is set to be [202305080900,202307111515] via config
+[2024.05.02 00:51:20 - info ] Unused cache data will be cleard in 0 days
+[2024.05.02 00:51:20 - info ] Tick data replaying is disabled
+[2024.05.02 00:51:20 - info ] adjust_flag is 0
+[2024.05.02 00:51:20 - info ] Resampled bars will be aligned by section:  no
+[2024.05.02 00:51:20 - info ] nosim_if_notrade is false
+[2024.05.02 00:51:20 - info ] Commodities configuration file C:\Users\Twhp\PycharmProjects\GoldRushTrader\example/common/stk_comms.json loaded
+[2024.05.02 00:51:20 - info ] Contracts configuration file C:\Users\Twhp\PycharmProjects\GoldRushTrader\example/common/stocks.json loaded, 2 exchanges
+[2024.05.02 00:51:20 - info ] 38 items of fees template loaded
+[2024.05.02 00:51:20 - info ] Backtesting will run in sync mode
+[2024.05.02 00:51:20 - debug] Calculating hook disabled
+[2024.05.02 00:51:20 - info ] CTA Strategy initialized with absolute slippage: 0
+[2024.05.02 00:51:20 - info ] Reading data from C:/Users/Twhp/PycharmProjects/GoldRushTrader/example/storage/csv/SZSE.IDX.399660_d.csv, with fields: low,open,date,time,high,close,volume...
+[2024.05.02 00:51:20 - info ] 1000 lines of data loaded
+[2024.05.02 00:51:20 - info ] 2000 lines of data loaded
+[2024.05.02 00:51:20 - info ] Data file C:/Users/Twhp/PycharmProjects/GoldRushTrader/example/storage/csv/SZSE.IDX.399660_d.csv all loaded, totally 2776 items, from 20121123 to 20240430
+[2024.05.02 00:51:20 - info ] Bars transfered to file C:/Users/Twhp/PycharmProjects/GoldRushTrader/example/storage/his/day/SZSE/399660.dsb
+[2024.05.02 00:51:20 - info ] DualThrust inited
+[2024.05.02 00:51:20 - info ] Start to replay back data from 202305080900...
+[2024.05.02 00:51:20 - debug] Tradingday 20230508 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230508 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230509 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230509 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230510 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230510 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230511 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230511 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230512 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230512 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230515 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230515 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230516 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230516 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230517 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230517 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230518 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230518 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230519 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230519 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230522 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230522 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230523 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230523 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230524 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230524 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230525 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230525 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230526 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230526 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230529 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230529 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230530 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230530 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230531 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230531 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230601 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230601 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230602 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230602 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230605 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230605 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230606 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230606 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230607 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230607 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230608 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230608 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230609 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230609 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230612 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230612 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230613 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230613 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230614 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230614 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230615 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230615 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230616 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230616 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230619 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230619 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230620 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230620 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230621 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230621 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230626 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230626 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230627 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230627 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230628 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230628 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230629 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230629 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230630 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230630 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230703 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230703 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230704 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230704 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230705 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230705 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230706 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230706 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230707 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230707 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230710 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230710 ends
+[2024.05.02 00:51:20 - debug] Tradingday 20230711 begins
+[2024.05.02 00:51:20 - debug] Tradingday 20230711 ends
+[2024.05.02 00:51:20 - info ] 202307121500 is beyond ending time 202307111515,replaying done
+[2024.05.02 00:51:20 - info ] Strategy has been scheduled 45 times, totally taking 9503 us, 211.178 us each time
+[2024.05.02 00:51:20 - debug] Notify strategy the end of backtest

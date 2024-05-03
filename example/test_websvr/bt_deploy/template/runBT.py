@@ -13,7 +13,7 @@ def getStrategy():
 
     return None
 
-def run_bt(fromTime:int, endTime:int, straid:str, init_capital:int=500000, slippage:int=0):
+def run_bt(code:str, fromTime:int, endTime:int, straid:str, init_capital:int=500000, slippage:int=0):
     StrategyType = getStrategy()
     if StrategyType is None:
         raise Exception("Module has no subtype of BaseCtaStrategy")
@@ -21,12 +21,13 @@ def run_bt(fromTime:int, endTime:int, straid:str, init_capital:int=500000, slipp
 
     #创建一个运行环境，并加入策略
     engine = GrtBtEngine(EngineType.ET_CTA)
-    engine.init('../common/', "configbt.yaml")
+    engine.init('C:\\Users\\Twhp\\PycharmProjects\\GoldRushTrader\\example/common/', "configbt.yaml",
+                commfile="stk_comms.json", contractfile="stocks.json")
     engine.configBacktest(fromTime, endTime)
     engine.configBTStorage(mode="csv", path="C:/Users/Twhp/PycharmProjects/GoldRushTrader/example/storage")
     engine.commitBTConfig()
 
-    straInfo = StrategyType(name=straid,code="CFFEX.IF.HOT", barCnt=50, period="m5", days=30, k1=0.1, k2=0.1, isForStk=False)
+    straInfo = StrategyType(name=straid,code=code, barCnt=25, period="d", days=10, k1=0.1, k2=0.1, isForStk=False)
     engine.set_cta_strategy(straInfo, slippage)
 
     engine.run_backtest()
@@ -40,7 +41,7 @@ def run_bt(fromTime:int, endTime:int, straid:str, init_capital:int=500000, slipp
 
 if __name__ == "__main__":
     print("子进程开始运行")
-    run_bt($FROMTIME$, $ENDTIME$, "$STRAID$", $CAPITAL$, $SLIPPAGE$)
+    run_bt("$CODE$", $FROMTIME$, $ENDTIME$, "$STRAID$", $CAPITAL$, $SLIPPAGE$)
 
 
 # from wtpy import BaseCtaStrategy
